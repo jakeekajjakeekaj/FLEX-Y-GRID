@@ -1,0 +1,1 @@
+Pequeño proyecto donde se pone en práctica al mismo tiempo sobre el uso de grid con flexbox, falta practicarlo y mejorarlo, pero se consiguen ver los fundamentos de cuándo utiliza css y flexbox
